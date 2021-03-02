@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "collect-icon": "/components/collect-icon/collect-icon"
+  },
+  "component": true
+}
